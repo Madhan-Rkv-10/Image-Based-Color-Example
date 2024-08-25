@@ -39,7 +39,6 @@
     </style>
 </head>
 <body>
-
 <div class="container">
     <h1>Dynamic Color Example</h1>
     <p>
